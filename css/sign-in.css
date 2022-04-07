@@ -1,0 +1,33 @@
+body {
+  background-image: url(../IMG/choclet.jpg);
+  background-attachment: fixed;
+  height: auto;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.card {
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+  color: white;
+  opacity: 0.7;
+  font-weight: bold;
+}
+h2 {
+  border-bottom: 2px solid #ff0057;
+  font-weight: bolder;
+}
+.btn:hover {
+  color: #333;
+  font-weight: bolder;
+  border: 2px solid #ff0057;
+}
+a {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+}
+a:hover {
+  color: #ff0057;
+  text-decoration: none;
+}
